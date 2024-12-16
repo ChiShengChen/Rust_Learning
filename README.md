@@ -11,6 +11,8 @@ https://hackmd.io/@sfagnU0PRimo51yNhxS4JQ/BybieZGuU
 
 https://philipzheng.gitbook.io/docker_practice/install/ubuntu
 
+> curl -sSL https://get.docker.com/ | sudo sh
+
 
 ## Setup Env for writing a smart contract in Rust using Stylus
 
