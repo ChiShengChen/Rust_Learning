@@ -10,3 +10,8 @@ https://rust-lang.tw/book-tw/ch00-00-introduction.html
 https://hackmd.io/@sfagnU0PRimo51yNhxS4JQ/BybieZGuU
 
 https://philipzheng.gitbook.io/docker_practice/install/ubuntu
+
+
+## Setup Env for writing a smart contract in Rust using Stylus
+
+https://docs.arbitrum.io/stylus/quickstart#setting-up-your-development-environment
