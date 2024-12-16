@@ -17,4 +17,5 @@ https://philipzheng.gitbook.io/docker_practice/install/ubuntu
 https://docs.arbitrum.io/stylus/quickstart#setting-up-your-development-environment
 
 > sudo apt update  
-> sudo apt install build-essential pkg-config libssl-dev cmake
+> sudo apt install build-essential pkg-config libssl-dev cmake  
+> cargo install cargo-stylus
